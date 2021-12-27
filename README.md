@@ -5,7 +5,7 @@
 ## Presentation
 I'm a Computer Science (BSc) student at Unicam (Università di Camerino) and I'm about to graduate.
 I'm still looking for a specific field to deep-dive into but, in the meantime, I like working on all kinds of projects, especially those where UI/UX thinking is required.
-<br>Feel free to take a look at my <a href="motsiiih.github.io" target="_blank">personal webpage</a>!
+<br>Feel free to take a look at my <a href="https://motsiiih.github.io" target="_blank">personal webpage</a>!
 
 ## Technologies
 I update this list whenever I learn new skills. As I'm writing, I'm comfortable using:<br><br>
