@@ -4,7 +4,7 @@
 
 ## Who am I?
 I'm a Computer Science (BSc) student at Unicam (Università di Camerino) and I'm about to graduate.
-I'm still looking for a specific field to deep-dive into. In the meantime, I enojy working on all kinds of projects, especially web apps where UI/UX thinking is required.
+I'm still looking for a specific field to deep-dive into. In the meantime, I enjoy working on all kinds of projects, especially web apps where UI/UX thinking is required.
 
 ## Technologies
 I update this list whenever I learn new skills. As I'm writing, I'm comfortable using:<br><br>
