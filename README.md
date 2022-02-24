@@ -2,7 +2,7 @@
 
 ![Luca's GitHub stats](https://github-readme-stats.vercel.app/api?username=motsiiih&hide=contribs,issues&theme=dark)
 
-## Presentation
+## Who am I?
 I'm a Computer Science (BSc) student at Unicam (Università di Camerino) and I'm about to graduate.
 I'm still looking for a specific field to deep-dive into but, in the meantime, I like working on all kinds of projects, especially those where UI/UX thinking is required.
 <br>Feel free to take a look at my <a href="https://motsiiih.github.io" target="_blank">personal webpage</a>!
