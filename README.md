@@ -1,6 +1,6 @@
 ### Hi, Luca here! 👋
 
-![Luca's GitHub stats](https://github-readme-stats.vercel.app/api?username=motsiiih&hide=contribs,issues&theme=dark)
+![Luca's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucamozzz&hide=contribs,issues&theme=dark)
 
 ## Who am I?
 I'm a Computer Science (BSc) student at Unicam (Università di Camerino) and I'm about to graduate.
